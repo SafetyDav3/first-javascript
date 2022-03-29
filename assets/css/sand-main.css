@@ -39,7 +39,7 @@ main ul {
   margin: 0;
 }
 
-main ul li {
+.the-items {
   margin: 1em;
   font-size: 2rem;
 }
